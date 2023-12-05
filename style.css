@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+ 
+}
+div{
+    background-color: rgb(238, 238, 238);
+}
+nav{
+    margin-left: 75px;
+}
+.main{
+    width: 94.2%;
+    height: 70px;
+    font-size: medium;
+}
+.first{
+    background-color: rgb(126, 229, 218);
+    width: 505px;
+    text-align: center;
+}
+.second{
+    width: 250px;
+    background-color: rgb(112, 204, 194);
+    font-size:small;
+    text-align:center;
+
+}
+.second a{
+    margin-top:3px;
+    display: inline-block;
+}
+.third{
+    width: 605px;
+    background-color: rgb(98, 179, 170);
+    font-size:small;
+    text-align: center;
+
+
+}
+.first a{
+    display: inline-block;
+    margin-bottom: 3px;
+}
+.box{
+    height: 80px;
+    margin-right: 1px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+h4{
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+article{
+    width: 94.2%;
+    text-align: center;
+    padding: 20px;
+    font-size: smaller;
+}
